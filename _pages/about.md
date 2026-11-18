@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), Hong Kong University of Science and Technology (HKUST), supervised by **Professor Junxian He**. Professor Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU), from which I graduated in June 2024. My research focuses on **natural language processing** and **machine learning**.
+I am a first-year Ph.D. candidate at the hkust-nlp HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by **Professor Junxian He**. Professor Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU), from which I graduated in June 2024. My research focuses on **natural language processing** and **machine learning**.
 
 Research Interests
 ======
@@ -22,7 +22,7 @@ Publications
 ### First-author papers
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br />
-The Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
+Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
 *Arxiv*, 2025. **(First author)** &middot; GitHub code repository available
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**<br />
